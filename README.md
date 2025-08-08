@@ -68,7 +68,7 @@ Hey there! I'm **Vaduni Niranjan**, an aspiring **Software Developer**, **Web Cr
 Got a cool idea, collab request, or feedback? Feel free to reach out via email or LinkedIn — I’d love to connect!
 
 <p align="center">
-  <a href="mailto:" target="_blank">
+  <a href="mailto:vaduniniranjan@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/vaduni-niranjan-6a2780311" target="_blank">
