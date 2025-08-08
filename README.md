@@ -36,13 +36,20 @@ Hey there! I'm **Vaduni Niranjan**, a passionate **Frontend Developer** and **UI
 ### 🛠️ Tech Stack
 
 **Languages:**  
-<img src="https://skillicons.dev/icons?i=html,css,js,java,c" />
+<img src="https://skillicons.dev/icons?i=c,java,js,python" />
 
-**Design & UI:**  
-<img src="https://skillicons.dev/icons?i=figma" />
+**Frontend:**  
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs" />
+
+**Backend & APIs:**  
+<img src="https://skillicons.dev/icons?i=nodejs,express" />  
+
+**Database:**  
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
 **Tools & Platforms:**  
-<img src="https://skillicons.dev/icons?i=github,git,vercel,vscode" />
+<img src="https://skillicons.dev/icons?i=github,vercel,netlify,vscode,canva,kaggle" />
+
 
 ### 📊 GitHub Stats
 
