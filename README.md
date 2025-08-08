@@ -48,7 +48,7 @@ Hey there! I'm **Vaduni Niranjan**, a passionate **Frontend Developer** and **UI
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
 **Tools & Platforms:**  
-<img src="https://skillicons.dev/icons?i=github,vercel,netlify,vscode,canva,kaggle" />
+<img src="https://skillicons.dev/icons?i=github,vercel,netlify,vscode,kaggle" />
 
 
 ### 📊 GitHub Stats
