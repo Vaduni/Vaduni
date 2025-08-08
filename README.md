@@ -2,18 +2,18 @@
   <img src="banner.png" alt="Vaduni Niranjan Banner" width="100%" />
 </p>
 
-<h2 align="center">🧠 Vaduni Niranjan — Crafting the Web, Decoding the Logic</h2>
+<h2 align="center">🧠 Vaduni Niranjan — Turning Ideas Into Impactful Code</h2>
 
 <p align="center">
   <code>while (true) {</code><br>
-  <code>&nbsp;&nbsp;buildInterface();</code><br>
-  <code>&nbsp;&nbsp;debugLogic(Java, C);</code><br>
-  <code>&nbsp;&nbsp;deployTo(Vercel);</code><br>
+  <code>&nbsp;&nbsp;designWeb();</code><br>
+  <code>&nbsp;&nbsp;secureApp();</code><br>
+  <code>&nbsp;&nbsp;solveRealWorldProblems();</code><br>
   <code>}</code>
 </p>
 
 <p align="center">
-  <em>Frontend Developer × Designer × Logic Lover</em>
+  <em>Software Dev x Web Creator x Design Enthusiast x Cybersecurity Learner</em>
 </p>
 
 <p align="center">
@@ -24,14 +24,16 @@
 
 ### 👨‍💻 About Me
 
-Hey there! I'm **Vaduni Niranjan**, a passionate **Frontend Developer** and **UI Designer** who loves bringing ideas to life through clean, interactive web experiences.
+Hey there! I'm **Vaduni Niranjan**, an aspiring **Software Developer**, **Web Creator**, and **Design Enthusiast** driven by the challenge of turning ideas into practical, user-friendly digital solutions.
 
-- 🧠 Always curious about how things work — from **HTML pixels** to **Java logic gates**
-- 🎨 I design in **Figma** and **Canva**, then build in **HTML, CSS, JS**
-- ⚙️ I enjoy solving logical puzzles in **C** and **Java**
-- 🚀 Always exploring new tools like **Vercel**, **GitHub**, and **VS Code**
+- 💡 Passionate about solving real-world problems through code
+- 🌐 I build responsive web apps using **HTML**, **CSS**, **JavaScript**, **React**, and **Next.js**
+- 🎨 I love crafting sleek UIs with **Figma**, **Canva**, **Tailwind CSS**, and **Bootstrap**
+- 🔐 Exploring **Cybersecurity**, and enhancing my logic skills with **C** and **Java**
+- ⚙️ Tools I use daily: **VS Code**, **GitHub**, **Vercel**, **Netlify**, and **Kaggle**
+- 🧠 Always learning and building—one project at a time!
 
-> **"Crafting the web while decoding the logic of Java and C."**
+> “Turning ideas into impactful code with logic, design, and curiosity.”
 
 ### 🛠️ Tech Stack
 
@@ -48,7 +50,7 @@ Hey there! I'm **Vaduni Niranjan**, a passionate **Frontend Developer** and **UI
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
 **Tools & Platforms:**  
-<img src="https://skillicons.dev/icons?i=github,vercel,netlify,vscode,kaggle" />
+<img src="https://skillicons.dev/icons?i=github,vercel,netlify,vscode" />
 
 
 ### 📊 GitHub Stats
